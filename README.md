@@ -1,1 +1,1 @@
-# Predictive-Modeling-for-Human-MonkeyPox-Detection-using-Symptomatic-Dataset
+# Predictive-Modeling-for-Human-MonkeyPox-Detection

@@ -62,7 +62,7 @@ The models were evaluated based on the following metrics:
 | Random Forest         | 0.69     | 0.72      | 0.86   | 0.78     | 0.62    |
 | SVM                   | 0.65     | 0.65      | 1.00   | 0.79     | 0.50    |
 | KNN                   | 0.71     | 0.72      | 0.91   | 0.80     | 0.62    |
-| Naive Bayes           | 0.69     | 0.74      | 0.80   | 0.77     | x.xx    |
+| Naive Bayes           | 0.69     | 0.74      | 0.80   | 0.77     | 0.64    |
 | Gradient Boosting     | 0.70     | 0.72      | 0.88   | 0.79     | 0.62    |
 | XGBoost               | 0.71     | 0.71      | 0.92   | 0.80     | 0.62    |
 | AdaBoost              | 0.70     | 0.72      | 0.87   | 0.79     | 0.63    |

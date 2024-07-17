@@ -57,15 +57,15 @@ The models were evaluated based on the following metrics:
 
 | Model                 | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
 |-----------------------|----------|-----------|--------|----------|---------|
-| Logistic Regression   | 0.70     | 0.72      | 0.86   | 0.79     | x.xx    |
-| Decision Tree         | 0.70     | 0.73      | 0.78   | 0.84     | x.xx    |
-| Random Forest         | 0.69     | 0.72      | 0.86   | 0.78     | x.xx    |
-| SVM                   | 0.65     | 0.65      | 1.00   | 0.79     | x.xx    |
-| KNN                   | 0.71     | 0.72      | 0.91   | 0.80     | x.xx    |
+| Logistic Regression   | 0.70     | 0.72      | 0.86   | 0.79     | 0.63    |
+| Decision Tree         | 0.70     | 0.73      | 0.78   | 0.84     | 0.63    |
+| Random Forest         | 0.69     | 0.72      | 0.86   | 0.78     | 0.62    |
+| SVM                   | 0.65     | 0.65      | 1.00   | 0.79     | 0.50    |
+| KNN                   | 0.71     | 0.72      | 0.91   | 0.80     | 0.62    |
 | Naive Bayes           | 0.69     | 0.74      | 0.80   | 0.77     | x.xx    |
-| Gradient Boosting     | 0.70     | 0.72      | 0.88   | 0.79     | x.xx    |
-| XGBoost               | 0.71     | 0.71      | 0.92   | 0.80     | x.xx    |
-| AdaBoost              | 0.70     | 0.72      | 0.87   | 0.79     | x.xx    |
+| Gradient Boosting     | 0.70     | 0.72      | 0.88   | 0.79     | 0.62    |
+| XGBoost               | 0.71     | 0.71      | 0.92   | 0.80     | 0.62    |
+| AdaBoost              | 0.70     | 0.72      | 0.87   | 0.79     | 0.63    |
 | Neural Network        | 0.70     | 0.72      | 0.89   | 0.79     | x.xx    |
 
 ## Conclusion

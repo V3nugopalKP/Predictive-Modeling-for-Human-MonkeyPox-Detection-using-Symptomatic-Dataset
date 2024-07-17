@@ -72,10 +72,6 @@ The models were evaluated based on the following metrics:
 
 Based on the evaluation metrics, the Decision Tree performed the best in predicting monkeypox based on symptoms. Future work will involve refining these models and incorporating more features to improve prediction accuracy.
 
-## References
-
-- [Include any references to papers, articles, or resources used in the project]
-
 ## Acknowledgements
 
 We would like to thank our team members and ICCSMLAI 2024 for the opportunity to present our work.
